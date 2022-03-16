@@ -3,7 +3,7 @@
 HEIGHT=15
 WIDTH=40
 CHOICE_HEIGHT=4
-BACKTITLE="Open Clash By Ripunk@E99"
+BACKTITLE="Open Clash By Termux-sf15"
 TITLE="Open Clash"
 MENU="Choose options:"
 
